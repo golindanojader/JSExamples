@@ -1,0 +1,13 @@
+// Json = formato de intercambio de datos
+
+[
+	
+		{"nombre":"manzanas"},
+		{"nombre":"peras"},
+		{"nombre":"zanahorias"},
+		{"nombre":"uvas"},
+		{"nombre":"naranjas"},
+		{"nombre":"café"},
+		{"nombre":"agua"}
+
+]
